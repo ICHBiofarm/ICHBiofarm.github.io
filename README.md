@@ -1,6 +1,6 @@
 # ICH_Biofarm
 
-Click here to browse #https://ICHBiofarm.github.io/#
+Click here to browse <https://ICHBiofarm.github.io/>
 
 A Web for Hangzhou ICH Biofarm Co. Ltd..
 
